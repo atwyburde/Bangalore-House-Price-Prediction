@@ -1,2 +1,7 @@
 # Bangalore-House-Price-Prediction
-Bangalore House Price Prediction using KNN
+
+#### Business Problem - 
+
+1. Predict the Price of Bangalore House based on multiple columns.
+
+2. Do Exploratory Data Analysis, Feature Engineering and Selection Predictive Model.
